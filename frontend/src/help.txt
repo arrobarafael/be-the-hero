@@ -1,0 +1,11 @@
+control + shift + p = git add remote
+control + shift + p = settings - mexer no emmet
+
+Pacotes de icones
+font awesome
+material icons
+feather icons
+
+npm install react-icons
+npm install react-router-dom
+npm install axios (instala cliente http para chamadas de api)

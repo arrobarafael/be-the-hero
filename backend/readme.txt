@@ -24,3 +24,13 @@ npx knex migrate:latest
 npx knex migrate:make create_incidents
 npx knex (mostra todos os comandos)
 npx knex migrate:rollback 
+
+Passo a Passo:
+cria rota (route.js)
+cria controller
+começa a programar nos controllers
+instala knex
+cria migrations
+cria connection para usar dentro dos controllers
+integra controller com connection e manipulação de banco
+
