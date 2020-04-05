@@ -34,3 +34,8 @@ cria migrations
 cria connection para usar dentro dos controllers
 integra controller com connection e manipulação de banco
 
+npm install celebrate (biblioteca usada para validações)
+npm install jest
+npx jest --init
+npm install cross-env
+npm install supertest (usada para comunicação com api em ambiente de teste. o axios não é recomendado nesse caso)
